@@ -4,8 +4,8 @@ Este projeto mostra os meus conhecimentos na Liguagem Delphi.
    - Delphi 7;
    - PostgreSQL 9.6;
    - Zeos.  
-# Principais tÃ©cincas empregadas :
-  - HeranÃ§a;
+# Principais técincas empregadas :
+  - Herança;
   - Polimorfismo.
 # Principais recursos empregados :
 - CRUD completo;
