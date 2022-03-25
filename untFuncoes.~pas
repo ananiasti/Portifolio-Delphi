@@ -1,0 +1,10 @@
+unit untFuncoes;
+
+interface
+
+implementation
+begin
+  ///
+end;
+
+end.
