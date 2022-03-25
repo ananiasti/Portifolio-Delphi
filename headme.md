@@ -9,7 +9,18 @@ Este projeto mostra os meus conhecimentos na Liguagem Delphi.
   - Polimorfismo.
 # Principais recursos empregados :
 - CRUD completo;
-- NavegaÃ§Ã£o de formulÃ¡rios criados em tempo de execuÃ§Ã£o;
-- TraduÃ§Ã£o dos botÃµes de mensagens do Delphi;
+- Navegação de formulários criados em tempo de execução;
+- Tradução dos botões de mensagens do Delphi;
 - DBGrid zebrado;
-- Try/Catch - 
+- StringGrid dinâmico;
+- Try/Catch - Try/Except;
+- Formatação de valores e datas;
+- Relatórios com QuickReport;
+- Exportação de dados para o Excel;
+- Consultas SQL usando PK e FK;
+- Consultas SQL usando JOINS.
+# Observações
+- 1 O objetivo deste sistema é apenas demonstrar o conhecimento nas tecnologias empregadas, por isso não foi empregado questões como leiaute
+- 2 Algumas telas estão incompletas, porém a tel de cliente é a mais completa.
+
+#Autor:  Ananias Caetano Delfino
